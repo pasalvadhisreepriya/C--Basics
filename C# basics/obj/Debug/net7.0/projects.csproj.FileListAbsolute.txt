@@ -1,0 +1,15 @@
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/projects.csproj.AssemblyReference.cache
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/projects.GeneratedMSBuildEditorConfig.editorconfig
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/projects.AssemblyInfoInputs.cache
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/projects.AssemblyInfo.cs
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/projects.csproj.CoreCompileInputs.cache
+/home/pasalvadhi.sreepriya/Desktop/projects/bin/Debug/net7.0/projects
+/home/pasalvadhi.sreepriya/Desktop/projects/bin/Debug/net7.0/projects.deps.json
+/home/pasalvadhi.sreepriya/Desktop/projects/bin/Debug/net7.0/projects.runtimeconfig.json
+/home/pasalvadhi.sreepriya/Desktop/projects/bin/Debug/net7.0/projects.dll
+/home/pasalvadhi.sreepriya/Desktop/projects/bin/Debug/net7.0/projects.pdb
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/projects.dll
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/refint/projects.dll
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/projects.pdb
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/projects.genruntimeconfig.cache
+/home/pasalvadhi.sreepriya/Desktop/projects/obj/Debug/net7.0/ref/projects.dll
